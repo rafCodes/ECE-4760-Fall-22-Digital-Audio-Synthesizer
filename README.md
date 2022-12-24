@@ -16,6 +16,6 @@ It features:
 - Twelve piano “keys” connected to a capacitive touch sensor module to change the frequency
 
 ## How to use
-- To use our code, load the audioSynth.uf2 onto the Pico and follow the circuit instructions available under design and appendices on our website here: [ECE 4760 Final Project: A digital Audio Synthesizer with RP2040](https://pages.github.coecis.cornell.edu/tc575/tc575_rm722_raf269/overview.html)
+- To use our code, load the audioSynth.uf2 onto the Pico and follow the circuit instructions available under design and appendices on our website here: [ECE 4760 Final Project: A digital Audio Synthesizer with RP2040](https://pages.github.coecis.cornell.edu/tc575/tc575_rm722_raf269/index.html)
 
 [Here is a video of our demo](https://www.youtube.com/watch?v=5SnrapigcxA)
